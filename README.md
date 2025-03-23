@@ -3,8 +3,8 @@
 - 🔭 Técnico em Desenvolvedor de sistemas pela Etec
 - 🔭 Hoje estudo ADS na FECAP 1/4 SEMESTRE
 - 🌱 Estou estudando front-end
-- 📫 contate-me no email : felipe.nuns06@gmail.com
-
+- 📚 Projetos do meu git na etec: https://github.com/EduFel2AI
+- 📫 Contate-me no email : felipe.nuns06@gmail.com
 
 
 <div style="display: inline_block"><br>
@@ -23,6 +23,7 @@
 <div> 
     
   <a href=https://www.linkedin.com/in/felipe-nunes-de-almeida-a5719634b/ target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" ></a> 
+  
 
 </div>
 
