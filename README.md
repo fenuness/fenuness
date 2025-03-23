@@ -4,11 +4,6 @@
 - 🌱 Estou estudando front-end
 - 📫 contate-me no email : felipe.nuns06@gmail.com
 
-<div>
-    <a href="https://beacons.ai/fenuness">
-    <img height="180" src=""   >
-    
-</div>
 
 
 <div style="display: inline_block"><br>
