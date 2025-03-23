@@ -1,5 +1,6 @@
 ## OLA!! Eu sou Felipe Nunes 
 
+- 🔭Tecnico em Desenvolvedor de sistemas pela Etec
 - 🔭 Hoje estudo ADS na FECAP 1/4 SEMESTRE
 - 🌱 Estou estudando front-end
 - 📫 contate-me no email : felipe.nuns06@gmail.com
