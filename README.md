@@ -1,6 +1,6 @@
 ## OLA!! Eu sou Felipe Nunes 
 
-- 🔭 Técnico em Desenvolvedor de sistemas pela Etec
+- 🔭 Técnico em Desenvolvimento de sistemas pela Etec
 - 🔭 Hoje estudo ADS na FECAP 1/4 SEMESTRE
 - 🌱 Estou estudando front-end
 - 📚 Projetos do meu git na etec: https://github.com/EduFel2AI
