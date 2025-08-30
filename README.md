@@ -3,7 +3,6 @@
 - 🔭 Técnico em Desenvolvimento de sistemas pela Etec
 - 🔭 Hoje estudo ADS na FECAP 2/4 SEMESTRE
 - 🌱 Estou estudando front-end
-- 📚 Projetos do meu git na etec: https://github.com/EduFel2AI
 - 📫 Contate-me no email : felipe.nuns06@gmail.com
 
 
