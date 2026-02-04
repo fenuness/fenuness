@@ -2,7 +2,7 @@
 
 - 🔭 Técnico em Desenvolvimento de sistemas pela Etec
 - 🔭 Hoje estudo ADS na FECAP 3/4 SEMESTRE
-- 🌱 Estou estudando front-end, back-end, banco de dados desing
+- 🌱 Estou estudando front-end, back-end, banco de dados e desing
 - 📫 Contate-me no email : felipe.nuns06@gmail.com
 
 
