@@ -1,8 +1,8 @@
 ## OLA!! Eu sou Felipe Nunes 
 
 - 🔭 Técnico em Desenvolvimento de sistemas pela Etec
-- 🔭 Hoje estudo ADS na FECAP 2/4 SEMESTRE
-- 🌱 Estou estudando front-end e back-end
+- 🔭 Hoje estudo ADS na FECAP 3/4 SEMESTRE
+- 🌱 Estou estudando front-end, back-end, banco de dados desing
 - 📫 Contate-me no email : felipe.nuns06@gmail.com
 
 
