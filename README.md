@@ -23,7 +23,7 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <a href="https://github.com/felipe-nunes-de-almeida">
+  <a href="https://github.com/fenuness">
 
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=felipe-nunes-de-almeida&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
