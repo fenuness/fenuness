@@ -23,13 +23,13 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <a href="https://github.com/fenuness">
 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=felipe-nunes-de-almeida&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=fenuness&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-nunes-de-almeida&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fenuness&layout=compact&langs_count=7&theme=tokyonight"/>
 
 </div>
+
 
 ---
 
