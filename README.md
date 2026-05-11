@@ -32,21 +32,12 @@
 
 ---
 
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=felipe-nunes-de-almeida&theme=tokyonight" />
-
-</div>
-
----
 
 ## 🐍 Snake Game
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/felipe-nunes-de-almeida/felipe-nunes-de-almeida/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/fenuness/fenuness/output/github-contribution-grid-snake.svg" />
 
 </div>
 
